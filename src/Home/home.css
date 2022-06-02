@@ -1,0 +1,16 @@
+.main-container {
+  margin: 20px;
+}
+
+.header {
+  font-size: clamp(2rem, -0.875rem + 8.333vw, 4.5rem);
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(138, 138, 192);
+}
